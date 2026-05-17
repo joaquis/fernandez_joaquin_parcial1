@@ -3,7 +3,7 @@
 ### Artes Multimediales - UNA
 
 
-URL del sitio online (GitHub Pages): [Insertar enlace acá al finalizar]
+URL del sitio online (GitHub Pages): https://joaquis.github.io/fernandez_joaquin_parcial1/index.html
 
 ---
 
